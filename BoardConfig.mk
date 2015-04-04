@@ -22,4 +22,3 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 1879014400
 
 # Recovery
 TARGET_RECOVERY_FSTAB := device/sony/flamingo/rootdir/fstab.yukon
-
